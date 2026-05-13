@@ -6,13 +6,13 @@ A machine learning project that predicts whether an individual's annual income e
 
 ## 📌 Table of Contents
 
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Technologies Used](#technologies-used)
-- [How to Run](#how-to-run)
+- [Overview](#-overview)
+- [Dataset](#-dataset)
+- [Project Structure](#-project-structure)
+- [Methodology](#️-methodology)
+- [Results](#-results)
+- [Technologies Used](#️-technologies-used)
+- [How to Run](#-how-to-run)
 
 ---
 
