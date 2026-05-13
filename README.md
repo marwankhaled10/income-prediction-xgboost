@@ -33,7 +33,7 @@ Key highlights:
 
 | Property       | Detail                            |
 |----------------|-----------------------------------|
-| Source         | [UCI Adult Census Dataset]([[https://archive.ics.uci.edu/ml/datasets/adult](https://www.kaggle.com/datasets/uciml/adult-census-income)](https://www.kaggle.com/datasets/uciml/adult-census-income)) |
+| Source         | [Kaggle — Adult Census Income](https://www.kaggle.com/datasets/uciml/adult-census-income) |
 | Rows           | 32,561                            |
 | Features       | 14                                |
 | Target         | `income` (≤50K / >50K)           |
